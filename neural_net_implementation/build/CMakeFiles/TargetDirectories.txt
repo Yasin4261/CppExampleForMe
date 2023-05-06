@@ -1,0 +1,3 @@
+/home/yasin/delete/neural_net_implementation/build/CMakeFiles/MyExecutable.dir
+/home/yasin/delete/neural_net_implementation/build/CMakeFiles/edit_cache.dir
+/home/yasin/delete/neural_net_implementation/build/CMakeFiles/rebuild_cache.dir
